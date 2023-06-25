@@ -25,11 +25,11 @@ const Header = () => {
                 </div>
 
                 <div className="header-right-icons">
-                    <a target='_blank' href="https://www.linkedin.com/in/nareshkumaralaria/">
+                    <a target='_blank' href="https://www.linkedin.com/in/dev-akanksha/">
                         <img src="/Linkedin.svg" alt="" />
                     </a>
                     <span>/</span>
-                    <a target='_blank' href="https://github.com/nareshkumaralaria">
+                    <a target='_blank' href="https://github.com/dev-akankshayadav">
                         <img src="/Github.svg" alt="" />
                     </a>
                 </div>
